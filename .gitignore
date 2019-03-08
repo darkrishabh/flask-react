@@ -1,0 +1,56 @@
+# Project Specific
+graphql.config.json
+database.sqlite3
+dump.rdb
+*.py[cod]
+.idea
+venv
+.env
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+sdist
+develop-eggs
+.installed.cfg
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+**/node_modules
+# pyenv
+.python-version
+
+# GraphQL
+graphql.config.json
+.env
